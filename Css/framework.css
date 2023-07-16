@@ -278,5 +278,7 @@ margin-bottom: 25px;
    .block-mobile {
     display: block;
    }
-}
+   .mr-mob{
+    margin-right: 0;
+   }
 /* End Mobile */
